@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-reanimated": "^1.4.0",
+    "react-native-uuid": "^1.4.9"
+  }
+}
